@@ -1,0 +1,2 @@
+./testbench.v
+./../hdl/edge_detector.v
