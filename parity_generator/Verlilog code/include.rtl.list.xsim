@@ -1,0 +1,2 @@
+./testbench.v
+./../hdl/parity_generator.v
